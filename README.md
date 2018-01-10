@@ -1,6 +1,8 @@
 
 Firmware for a bluetooth beacon, like this  https://forum.mysensors.org/topic/6951/nrf5-multi-sensor-board-12-14
 
+![Beacon](img/beacon.jpg)
+
 This firmware acts as a eddystone bluetooth beacon, announcing RuuviTag URLs (see https://tag.ruuvi.com/).
 RuuviTag has different sensors and a more capable processor, so the source (https://github.com/ruuvi/ruuvitag_fw) does not fit for this beacon.
 
